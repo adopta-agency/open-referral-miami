@@ -1,4 +1,5 @@
-## Miami Switchboard Developer
-This is the project to build a developer portal for the Switchboard of Miami API.
+## Miami Open211 Developer Portal -- DEPRECATED
+This is v1.0 of the developer portal for the Switchboard of Miami API. It is deprecated.
 
-URL: http://miami.open.211.adopta.agency/
+For v1.0, go here: https://github.com/miami-open-211/developer-portal-v1.2
+
